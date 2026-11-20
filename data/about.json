@@ -1,0 +1,34 @@
+{
+ "region": "충남 당진시 덕마리",
+ "nameEn": "Shinsung University",
+ "added": "2026-11-01T02:27",
+ "rank": 173,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SEHAN-DANGJIN",
+   "campus": "세한대학교 당진캠퍼스",
+   "km": 16.9
+  },
+  {
+   "code": "HANSEO",
+   "campus": "한서대학교 서산캠퍼스",
+   "km": 17.9
+  },
+  {
+   "code": "HYEJEON",
+   "campus": "혜전대학교",
+   "km": 30.8
+  },
+  {
+   "code": "KONGJU-YESAN",
+   "campus": "국립공주대학교 예산캠퍼스",
+   "km": 31.3
+  },
+  {
+   "code": "SCH",
+   "campus": "순천향대학교",
+   "km": 31.4
+  }
+ ]
+}
